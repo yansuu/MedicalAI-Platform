@@ -1,2 +1,2 @@
-# MedicalTech-Platform
-MedicalTech
+# MedicalAI-Platform
+MedicalAI
